@@ -93,7 +93,7 @@ The strongest early detection point was unauthorized successful use of the `help
 <img width="855" height="201" alt="Screenshot 2026-07-14 134505" src="https://github.com/user-attachments/assets/dcfc5cf2-9f0e-4b17-9cf5-1d7ba0734605" />
  
 
- 
+--- 
 
 <img width="1072" height="176" alt="Screenshot 2026-07-12 131050" src="https://github.com/user-attachments/assets/eb549cb8-ddbd-4c5c-9a5a-5ef55f0fcb24" />
 
