@@ -28,8 +28,6 @@ This portfolio entry demonstrates practical skills in threat hunting, incident s
 
 | Category | Details | 
 
-|---|---| 
-
 | Platform | Microsoft Defender portal with Advanced Hunting. | 
 
 | Primary host | `npt-ws01`.| 
@@ -65,8 +63,6 @@ The strongest early detection point was unauthorized successful use of the `help
 ## Key Findings 
 
 | Finding | Evidence | 
-
-|---|---| 
 
 | Unauthorized access | Successful logon using account `helpdesk` from `20.110.92.50`.| 
 
