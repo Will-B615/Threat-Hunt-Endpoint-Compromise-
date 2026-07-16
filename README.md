@@ -155,6 +155,18 @@ This case shows why suspicious successful logons should be treated as a high-val
 
   
 
-## What This Project Proves 
+## Key Outcomes 
 
-This project shows the ability to move from a vague user complaint to a defensible incident conclusion using endpoint telemetry, structured analysis, and incident response methodology. It also demonstrates practical experience documenting findings in a way that supports SOC triage, containment decision-making, and follow-on threat hunting across additional assets. 
+Demonstrated the ability to turn a vague end-user complaint into a confirmed incident with clear scope, impact, and recommended next steps. 
+
+Showed structured investigative thinking by connecting account activity, device behavior, persistence methods, and possible spread to another host into one coherent timeline. 
+
+Produced business-aligned response guidance, including actions to contain affected systems, secure compromised accounts, and reduce the risk of continued attacker access. 
+
+Communicated technical findings in a way that supports both operational responders and non-technical stakeholders who need a clear understanding of risk and response priorities. 
+
+
+
+## Executive Summary 
+
+This project documents an investigation into a confirmed security compromise affecting workstation npt-ws01, after a finance user reported repeated overnight login prompts. The investigation confirmed that an unauthorized actor gained access, established a foothold on the device, created ways to stay connected, and showed signs of expanding activity beyond the original system. The work focused on determining the scope of the incident, identifying the business risk, and outlining practical containment and recovery actions to reduce further exposure. It also demonstrates the ability to translate technical findings into clear, decision-ready communication for both security teams and non-technical stakeholders. 
