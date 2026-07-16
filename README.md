@@ -38,14 +38,14 @@ This portfolio entry demonstrates practical skills in threat hunting, incident s
 
 | Initial trigger | Help Desk Ticket #4451 reporting repeated login prompts.| 
 
- 
+---
 <img width="770" height="295" alt="Screenshot 2026-07-16 110601" src="https://github.com/user-attachments/assets/4b0ea420-00a5-448f-99d8-8d80c2a3fb11" />
 
 
  
 
- 
 
+ ---
 ## Investigation Objective 
 
 The goal was to determine whether the reported login prompts were benign or evidence of a real compromise, then identify what happened, what artifacts were created, and whether the attacker moved beyond the initial workstation. 
