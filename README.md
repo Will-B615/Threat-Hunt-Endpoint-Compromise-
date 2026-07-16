@@ -1,4 +1,4 @@
-# Threat-Hunt-Endpoint-Compromise-
+# Threat-Hunt-Endpoint-Compromise
 
 ## Overview 
 
