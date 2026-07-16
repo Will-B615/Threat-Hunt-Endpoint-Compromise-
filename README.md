@@ -55,8 +55,9 @@ The goal was to determine whether the reported login prompts were benign or evid
 ## Detection Summary 
 
 The strongest early detection point was unauthorized successful use of the `helpdesk` account from external IP `20.110.92.50`, because that event tied the intrusion to suspicious access before later persistence activity appeared. A second high-confidence signal was the execution chain showing `cmd.exe /Q /c start "" "C:\Windows\Temp\WindowsUpdate.exe"` with `wmiprvse.exe` as the parent process, which indicated likely remote WMI-based execution. 
----
-  
+
+ --- 
+
 <img width="787" height="157" alt="Screenshot 2026-07-14 142713" src="https://github.com/user-attachments/assets/02f90f86-7483-467b-b879-fe40cb0b372b" />
 
 
