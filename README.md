@@ -39,6 +39,7 @@ This portfolio entry demonstrates practical skills in threat hunting, incident s
 | Initial trigger | Help Desk Ticket #4451 reporting repeated login prompts.| 
 
  
+<img width="770" height="295" alt="Screenshot 2026-07-16 110601" src="https://github.com/user-attachments/assets/4b0ea420-00a5-448f-99d8-8d80c2a3fb11" />
 
 
  
