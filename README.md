@@ -116,10 +116,12 @@ The strongest early detection point was unauthorized successful use of the `help
 
 6. Evidence suggested movement toward a second host, `npt-srv01`, which expanded the investigation scope beyond a single endpoint. 
 
-  
+---  
+
+<img width="1897" height="848" alt="Screenshot 2026-07-16 115318" src="https://github.com/user-attachments/assets/f5dbae13-0aff-4c6d-b1aa-d23418a3f246" />
 
 
- 
+--- 
 
 The timeline visualization above shows Defender Advanced Hunting results for npt-ws01, grouped by ActionType. The sequence of ProcessCreated, ConnectionSuccess, and RegistryValueSet events illustrates the attack chain across execution, command‑and‑control, and persistence phases during the incident window. 
 
